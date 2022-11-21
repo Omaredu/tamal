@@ -1,0 +1,6 @@
+1 + 2.87 - 345.8767 * 5672 - .45
+
+fn add (a: num, b: num): num
+  num result_number = 19.08
+  a + b
+end
